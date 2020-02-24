@@ -41,7 +41,7 @@ namespace Lesson_WPF_20200224
 
             // ctrl tab - между вкладками
 
-            // liteDB viewer - программа просмотра
+            // liteDB viewer - программа просмотра 
             #region
 //wwwwwwwwwwwwwwwww
 //                wwwwwwwwwwwwww
